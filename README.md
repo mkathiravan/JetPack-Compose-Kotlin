@@ -16,6 +16,31 @@ UI elements are hierarchical, with elements contained in other elements. In Comp
 
 Compose is built to support material design principles. Many of its UI elements implement material design out of the box. In this lesson, you'll style your app with material widgets.
 
+--> Jetpack compose is a declarative UIToolkit.
+
+## What is meant by declarative UI?
+
+i) Less Code
+ii) No XML
+iii) Composing whatever you want
+
+## Building Blocks of JetPack
+
+i) Composable function
+ii) Model
+iii) Preview
+
+--> Composable functions are the UI function of the screen.
+
+## What is meant by EdgeInsets?
+
+It is a set of offsets from each of the four sides of a box.
+
+## What is meant by Ripple?
+
+It is a visual indicator for a pressed state
+
+
 ![Screenshot_20200323-172826_My Application](https://user-images.githubusercontent.com/39657409/77318714-83c97880-6d33-11ea-9652-0cf6ea0d0784.jpg)
 
 ![Screenshot_20200323-172838_My Application](https://user-images.githubusercontent.com/39657409/77318741-90e66780-6d33-11ea-9001-a08ecc883b91.jpg)
